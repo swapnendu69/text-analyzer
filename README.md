@@ -1,1 +1,30 @@
-# text-analyzer
+# Text Analyzer
+
+A comprehensive Python-based text analyzer that supports multiple file formats and provides detailed text statistics.
+
+## Features
+
+- 📊 **Multiple File Format Support**: 
+  - `.txt` (Plain Text Files)
+  - `.docx` (Microsoft Word Documents)
+  - `.pdf` (Portable Document Format)
+  - `.doc` (Limited support for Legacy Word Documents)
+
+- 📈 **Comprehensive Analysis**:
+  - Number of lines
+  - Number of words
+  - Number of characters
+  - Top 5 most frequent words
+
+- 🎯 **User-Friendly Interface**:
+  - File upload functionality
+  - Manual text input
+  - Multiple file analysis
+  - Clean, formatted output
+
+## Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/swapnendu69/text-analyzer.git
+cd text-analyzer
