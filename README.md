@@ -23,8 +23,10 @@ A comprehensive Python-based text analyzer that supports multiple file formats a
   - Clean, formatted output
 
 ## Installation
+1. Install required dependency:
+   pip install python-docx PyPDF2
 
-1. Clone the repository:
+2. Clone the repository:
 ```bash
 git clone https://github.com/swapnendu69/text-analyzer.git
 cd text-analyzer
